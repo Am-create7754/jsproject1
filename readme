@@ -1,0 +1,28 @@
+⏰ Bootstrap Styled Clock:
+
+A real-time digital clock built using HTML, CSS, JavaScript, and Bootstrap. It displays the current time with date formatting and a stylish UI.
+
+🌟 Features
+✅ Live Digital Clock – Updates every second.
+✅ Date Display – Shows the full date with the weekday, month, and year.
+✅ Bootstrap Styling – Modern and responsive design.
+✅ Navbar with Navigation – Includes a styled Bootstrap navbar.
+✅ Smooth UI Enhancements – Hover effects, gradients, and animations.
+
+🛠️ Technologies Used
+HTML5 – Structure
+CSS3 & Bootstrap 5 – Styling & responsiveness
+JavaScript – Time and date functionality
+
+🚀 Getting Started
+1️⃣ Clone the Repository
+git clone https://github.com/your-username/bootstrap-clock.git
+cd bootstrap-clock
+2️⃣ Open index.html in a browser
+That's it! The clock will start displaying the current time dynamically.
+
+🎨 Customization
+Modify the background colors and gradients in the <style> section.
+Update the font size or styles for a personalized look.
+🤝 Contributing
+Want to enhance this project? Feel free to fork the repo and submit a pull request.
